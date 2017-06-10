@@ -1,0 +1,25 @@
+ [{
+  "id": 1,
+  "color": "red",
+  "make": "toyota",
+  "model": "camry",
+  "year": "2016"
+  }, {
+  "id": 2,
+  "color": "blue",
+  "make": "honda",
+  "model": "accord",
+  "year": "2015"
+  }, {
+  "id": 3,
+  "color": "white",
+  "make": "Mercedes",
+  "model": "C-Class",
+  "year": "2014"
+  }, {
+  "id": 4,
+  "color": "black",
+  "make": "Lexus",
+  "model": "RX 350",
+  "year": "2013"
+  }]

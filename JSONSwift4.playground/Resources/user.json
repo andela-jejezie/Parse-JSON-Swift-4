@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Fred Ian",
+    "gender": "male",
+    "car": {
+        "id": 1,
+        "color": "red",
+        "make": "toyota",
+        "model": "camry",
+        "year": "2016"
+    }
+}
